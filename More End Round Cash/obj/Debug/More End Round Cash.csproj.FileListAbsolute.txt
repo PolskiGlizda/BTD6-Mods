@@ -1,0 +1,6 @@
+C:\Users\polsk\source\repos\btd6 mods\More End Round Cash\bin\Debug\More End Round Cash.dll
+C:\Users\polsk\source\repos\btd6 mods\More End Round Cash\bin\Debug\More End Round Cash.pdb
+C:\Users\polsk\source\repos\btd6 mods\More End Round Cash\obj\Debug\More End Round Cash.csprojAssemblyReference.cache
+C:\Users\polsk\source\repos\btd6 mods\More End Round Cash\obj\Debug\More End Round Cash.csproj.CoreCompileInputs.cache
+C:\Users\polsk\source\repos\btd6 mods\More End Round Cash\obj\Debug\More End Round Cash.dll
+C:\Users\polsk\source\repos\btd6 mods\More End Round Cash\obj\Debug\More End Round Cash.pdb
