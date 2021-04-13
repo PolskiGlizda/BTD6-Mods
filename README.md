@@ -1,6 +1,8 @@
 # BTD6-Mods
 # Mods to BTD6
 # Required NKHook6 and MelonLoader
+NKHook6 - https://github.com/NKHook/NKHook6
+MelonLoader - https://github.com/LavaGang/MelonLoader
 # Allsuper
 Allsuper mod is broken becouse of update of NKHook6
 # Hypersonic
