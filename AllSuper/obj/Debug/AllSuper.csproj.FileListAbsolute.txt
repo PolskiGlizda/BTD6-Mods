@@ -1,0 +1,2 @@
+C:\Users\polsk\source\repos\btd6 mods\AllSuper\obj\Debug\AllSuper.csprojAssemblyReference.cache
+C:\Users\polsk\source\repos\btd6 mods\AllSuper\obj\Debug\AllSuper.csproj.CoreCompileInputs.cache
